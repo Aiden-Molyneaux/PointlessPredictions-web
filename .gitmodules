@@ -1,0 +1,6 @@
+[submodule "pp-frontend-react"]
+	path = pp-frontend-react
+	url = https://github.com/Aiden-Molyneaux/pp-frontend-react.git
+[submodule "pp-backend-rails"]
+	path = pp-backend-rails
+	url = https://github.com/Aiden-Molyneaux/backend.git
